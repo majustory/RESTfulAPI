@@ -3,7 +3,6 @@
     1.작성자 : 최영원 <br>
     2.용도 : RESTful API 서버 와 클라이언트<br>
     3.내용 : 방명록 페이지 나누기  <br>
-
     </td> </tr>
     <tr><td colspan="2">  서버 TEST 이미지 ( PORT 번호 : 8894) </td> </tr>
     <tr><td colspan="2">
@@ -18,5 +17,4 @@
      <img src="https://cafeptthumb-phinf.pstatic.net/MjAyNDA3MzFfMjAy/MDAxNzIyMzg4Nzk5ODI2.e4d7Oz8bnNsnwVQ78IIG13MPUScf4EN7WeAHthYLw14g.U3Sdj_8IJF1OysnDfZEuBaaHpc4xJqIxDLi8m71ygvIg.PNG/C12.PNG?type=w1600" />
     </td> 
 </tr>
-
 </table>
